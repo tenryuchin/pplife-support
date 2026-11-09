@@ -9,7 +9,7 @@
     ],
     [
       "使用信息",
-      "我们通过 TelemetryDeck 了解功能使用情况，以改进产品。这些信息包括功能和购买流程的使用情况，以及设备和 App 的基本信息。我们不将统计信息与姓名或邮箱关联，也不用于广告或跨公司追踪。"
+      "我们通过第三方统计服务 了解功能使用情况，以改进产品。这些信息包括功能和购买流程的使用情况，以及设备和 App 的基本信息。我们不将统计信息与姓名或邮箱关联，也不用于广告或跨公司追踪。"
     ],
     [
       "存储与删除",
@@ -34,7 +34,7 @@
     ],
     [
       "使用資訊",
-      "我們透過 TelemetryDeck 了解功能使用情況，以改善產品。資訊包括功能與購買流程的使用情況，以及裝置和 App 的基本資訊。我們不將統計資訊與姓名或電子郵件連結，也不用於廣告或跨公司追蹤。"
+      "我們透過第三方統計服務 了解功能使用情況，以改善產品。資訊包括功能與購買流程的使用情況，以及裝置和 App 的基本資訊。我們不將統計資訊與姓名或電子郵件連結，也不用於廣告或跨公司追蹤。"
     ],
     [
       "儲存與刪除",
@@ -59,7 +59,7 @@
     ],
     [
       "Usage information",
-      "We use TelemetryDeck to understand how features are used and improve PPLife. This includes feature and purchase-flow activity, as well as basic device and app information. We do not link analytics to your name or email, use it for advertising, or track you across other companies."
+      "We use a third-party analytics service to understand how features are used and improve PPLife. This includes feature and purchase-flow activity, as well as basic device and app information. We do not link analytics to your name or email, use it for advertising, or track you across other companies."
     ],
     [
       "Storage and deletion",
@@ -84,7 +84,7 @@
     ],
     [
       "利用情報",
-      "機能の利用状況を把握し、製品を改善するために TelemetryDeck を利用します。機能や購入手続きの利用状況、および端末とアプリの基本情報が含まれます。統計情報を氏名やメールアドレスと結び付けず、広告や他社をまたぐ追跡には利用しません。"
+      "機能の利用状況を把握し、製品を改善するために 第三者の統計サービスを利用します。機能や購入手続きの利用状況、および端末とアプリの基本情報が含まれます。統計情報を氏名やメールアドレスと結び付けず、広告や他社をまたぐ追跡には利用しません。"
     ],
     [
       "保存と削除",
@@ -109,7 +109,7 @@
     ],
     [
       "사용 정보",
-      "기능 사용 현황을 파악하고 제품을 개선하기 위해 TelemetryDeck을 사용합니다. 기능 및 구매 과정 이용 현황과 기기 및 앱의 기본 정보가 포함됩니다. 통계 정보를 이름이나 이메일에 연결하지 않으며 광고나 다른 회사 간 추적에 사용하지 않습니다."
+      "기능 사용 현황을 파악하고 제품을 개선하기 위해 제3자 통계 서비스를 사용합니다. 기능 및 구매 과정 이용 현황과 기기 및 앱의 기본 정보가 포함됩니다. 통계 정보를 이름이나 이메일에 연결하지 않으며 광고나 다른 회사 간 추적에 사용하지 않습니다."
     ],
     [
       "저장 및 삭제",
@@ -134,7 +134,7 @@
     ],
     [
       "Información de uso",
-      "Usamos TelemetryDeck para entender el uso de las funciones y mejorar el producto. Esto incluye el uso de funciones y del proceso de compra, así como información básica del dispositivo y de la app. No vinculamos las estadísticas a tu nombre o correo ni las usamos para publicidad o seguimiento entre empresas."
+      "Usamos un servicio de estadísticas de terceros para entender el uso de las funciones y mejorar el producto. Esto incluye el uso de funciones y del proceso de compra, así como información básica del dispositivo y de la app. No vinculamos las estadísticas a tu nombre o correo ni las usamos para publicidad o seguimiento entre empresas."
     ],
     [
       "Almacenamiento y eliminación",
@@ -159,7 +159,7 @@
     ],
     [
       "Informations d’utilisation",
-      "Nous utilisons TelemetryDeck pour comprendre l’utilisation des fonctions et améliorer le produit. Ces informations comprennent l’utilisation des fonctions et du parcours d’achat, ainsi que des informations de base sur l’appareil et l’app. Nous ne relions pas les statistiques à votre nom ou à votre adresse e-mail et ne les utilisons ni pour la publicité ni pour le suivi entre entreprises."
+      "Nous utilisons un service de statistiques tiers pour comprendre l’utilisation des fonctions et améliorer le produit. Ces informations comprennent l’utilisation des fonctions et du parcours d’achat, ainsi que des informations de base sur l’appareil et l’app. Nous ne relions pas les statistiques à votre nom ou à votre adresse e-mail et ne les utilisons ni pour la publicité ni pour le suivi entre entreprises."
     ],
     [
       "Stockage et suppression",
@@ -184,7 +184,7 @@
     ],
     [
       "Nutzungsinformationen",
-      "Wir verwenden TelemetryDeck, um die Nutzung der Funktionen zu verstehen und das Produkt zu verbessern. Dazu gehören die Nutzung von Funktionen und des Kaufablaufs sowie grundlegende Informationen über Gerät und App. Wir verknüpfen Statistiken nicht mit deinem Namen oder deiner E-Mail-Adresse und nutzen sie weder für Werbung noch für die unternehmensübergreifende Verfolgung."
+      "Wir verwenden einen Statistikdienst eines Drittanbieters, um die Nutzung der Funktionen zu verstehen und das Produkt zu verbessern. Dazu gehören die Nutzung von Funktionen und des Kaufablaufs sowie grundlegende Informationen über Gerät und App. Wir verknüpfen Statistiken nicht mit deinem Namen oder deiner E-Mail-Adresse und nutzen sie weder für Werbung noch für die unternehmensübergreifende Verfolgung."
     ],
     [
       "Speicherung und Löschung",
